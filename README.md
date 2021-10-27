@@ -1,1 +1,1 @@
-# NFModelImplementation
+# VAE-Glow-MNIST
